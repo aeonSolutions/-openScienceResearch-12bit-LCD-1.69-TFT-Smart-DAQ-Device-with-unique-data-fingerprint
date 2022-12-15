@@ -6,8 +6,7 @@
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l95wbzce6vrs7sr48tbl" alt="trackgit-views" />
 </a>
-![](https://views.whatilearened.today/views/github/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint
-.svg)
+![](https://views.whatilearened.today/views/github/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint.svg)
 
 
 # Open Science Research: 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD
