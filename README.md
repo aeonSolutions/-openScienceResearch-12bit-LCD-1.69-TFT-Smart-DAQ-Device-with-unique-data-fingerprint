@@ -4,14 +4,14 @@
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
 ![](https://img.shields.io/github/last-commit/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint?style=for-the-badge)
 <a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l95wbzce6vrs7sr48tbl" alt="trackgit-views" />
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lbp3wclsex7ya7ravspl" alt="trackgit-views" />
 </a>
 ![](https://views.whatilearened.today/views/github/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint.svg)
 
 
-# Open Science Research: 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD
+# Open Science Research 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD
+This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
 
-This is the repository for the 12bit LCD 1.69" TFT Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
 
 <br>
 <br>
@@ -108,7 +108,7 @@ The PCB circuit schematic is available in PDF located in the folder "PCB Schemat
 https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/tree/main/PCB%20Schematic
 
 ## PCB design files
-The PCB gerber files are located in the folder "PCB Gerber Files" and are ready to order online on any pcb fabrication store. (PCBWay, AllPCB, Eurocircuits, etc)
+The PCB gerber files are located in the folder "gerber" and are ready to order online on any pcb fabrication store. (PCBWay, AllPCB, Eurocircuits, etc)
 <br>
 <br>
 other open hardware PCB electronics are also available on my PCB catalogue that maybe worth have a look.  The catalogue includes the KiCad project files of similar smart DAQ compatible with the firmware code available on this repository:
@@ -163,5 +163,4 @@ Liked any of my PCB KiCad Designs? Help and Support my open work to all by becom
 In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
-
 
