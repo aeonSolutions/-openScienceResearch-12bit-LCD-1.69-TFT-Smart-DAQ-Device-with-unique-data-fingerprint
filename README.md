@@ -81,6 +81,7 @@ The hardware specifications for the 12bit pcb with dimensions of 23.5x43.5mm are
   -  1x 12 to 16bit (oversampling & digitization) digital terminal connector (shared)
   -  1x 12 to 16bit (oversampling & digitization) analog terminal connector (shared) with manual scale selection ohmeter via jumper pin
   -  12 to 16bit (oversampling & digitization) voltage reference analyser with temperature compensation 
+- 1.69 inch TFT IPS LCD  
 
 
 <br>
@@ -94,14 +95,14 @@ The hardware specifications for the 12bit pcb with dimensions of 23.5x43.5mm are
 - do temperature and humidity compensation on all measurements 
 - has a voltage reference sensor for improved accuracy on ADC measurements  
 - has a motion sensor to know if anyone moved a specimen during an experiment
+- ability to show live experimental data oon the 1.69 inch TFT IPS LCD  
 
 <br>
 <br>
 
 ## PCB circuit Schematic 
 The PCB circuit schematic is available in PDF located in the folder "PCB Schematic"
-
-https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/tree/main/PCB%20Schematic
+<br>
 
 ## PCB design files
 The PCB gerber files are located in the folder "gerber" and are ready to order online on any pcb fabrication store. (PCBWay, AllPCB, Eurocircuits, etc)
@@ -110,8 +111,6 @@ The PCB gerber files are located in the folder "gerber" and are ready to order o
 
 ![](https://github.com/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint/blob/main/Designs/smart_daq_front.png)
 
-
-(November pcb revision)
 <br>
 <br>
 
