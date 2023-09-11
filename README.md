@@ -10,8 +10,6 @@
 
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Laboratory Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Laboratory%20Automation)  >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)  >> Open Science Research 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD
 
-<br>)  >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)  >> Open Science Research 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD
-
 <br>
 
 # Open Science Research 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD
