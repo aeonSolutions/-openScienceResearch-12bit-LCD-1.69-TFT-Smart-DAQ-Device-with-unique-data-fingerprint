@@ -1,8 +1,3 @@
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)  >> Open Science Research 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD
-
-<br>
-
-
 [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
  [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
@@ -13,6 +8,11 @@
 </a>
 ![](https://views.whatilearened.today/views/github/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint.svg)
 
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Laboratory Automation]([PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)  >> Open Science Research 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD
+
+<br>)  >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)  >> Open Science Research 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD
+
+<br>
 
 # Open Science Research 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD
 This is the repository for the 12bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository
